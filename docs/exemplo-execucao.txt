@@ -1,0 +1,55 @@
+
+=== CALCULADORA DE IMC ===
+1 - Registrar avaliacao
+2 - Listar historico
+3 - Ordenar por IMC
+4 - Maior e menor IMC
+0 - Sair
+Opcao: Nome: Peso em kg: Altura em metros: Registrado: Ana | IMC: 24,69 | Peso adequado
+
+=== CALCULADORA DE IMC ===
+1 - Registrar avaliacao
+2 - Listar historico
+3 - Ordenar por IMC
+4 - Maior e menor IMC
+0 - Sair
+Opcao: Nome: Peso em kg: Altura em metros: Registrado: Bia | IMC: 20,76 | Peso adequado
+
+=== CALCULADORA DE IMC ===
+1 - Registrar avaliacao
+2 - Listar historico
+3 - Ordenar por IMC
+4 - Maior e menor IMC
+0 - Sair
+Opcao:
+=== HISTORICO ===
+Ana | 80,00 kg | 1,80 m | IMC 24,69 | Peso adequado
+Bia | 60,00 kg | 1,70 m | IMC 20,76 | Peso adequado
+
+=== CALCULADORA DE IMC ===
+1 - Registrar avaliacao
+2 - Listar historico
+3 - Ordenar por IMC
+4 - Maior e menor IMC
+0 - Sair
+Opcao:
+=== HISTORICO ===
+Bia | 60,00 kg | 1,70 m | IMC 20,76 | Peso adequado
+Ana | 80,00 kg | 1,80 m | IMC 24,69 | Peso adequado
+
+=== CALCULADORA DE IMC ===
+1 - Registrar avaliacao
+2 - Listar historico
+3 - Ordenar por IMC
+4 - Maior e menor IMC
+0 - Sair
+Opcao: Menor IMC: Bia (20,76)
+Maior IMC: Ana (24,69)
+
+=== CALCULADORA DE IMC ===
+1 - Registrar avaliacao
+2 - Listar historico
+3 - Ordenar por IMC
+4 - Maior e menor IMC
+0 - Sair
+Opcao: Ate a proxima!
