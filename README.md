@@ -32,9 +32,15 @@ java -jar target/calculadora-imc-java-1.0.0.jar
 
 ## Demonstração
 
+![Execução real da Calculadora de IMC](docs/images/funcionamento.png)
+
+Imagem gerada a partir da saída real do programa, registrada em
+[exemplo-execucao.txt](docs/exemplo-execucao.txt).
+
+
 No menu, escolha `1` para registrar, `2` para listar, `3` para ordenar, `4` para consultar extremos e `0` para sair.
 
-O arquivo `docs/exemplo-execucao.txt` será gerado automaticamente na preparação local a partir de uma execução real. Ele pode ser substituído ou complementado por uma captura de tela depois.
+O arquivo `docs/exemplo-execucao.txt` será gerado automaticamente na preparação local a partir de uma execução real. A imagem acima apresenta essa execução em formato visual.
 
 ## Estrutura
 
